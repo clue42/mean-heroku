@@ -13,6 +13,7 @@
     "start": "coffee mean-heroku.coffee"
   },
   "dependencies": {
+    "coffee-script" : ">1.8.0",
     "express": "~4.9",
     "log4js": ">=0.6.21",
     "mongoose": ">= 3.8.16",
